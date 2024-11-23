@@ -20,4 +20,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asmaaaladawi&show_icons=true&locale=en" alt="asmaaaladawi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asmaaaladawi&" alt="asmaaaladawi" /></p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=AsmaaAladawi&theme=dawnfox&hide_border=true&border_radius=6.4" alt="GitHub Streak" /></a>
