@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Asmaa Aladawi</h1>
+<h1 align="center">Hi, I'm Asmaa Aladawi</h1>
 
 <h3 align="center">Flutter Developer | Computer Science Graduate</h3>
 
