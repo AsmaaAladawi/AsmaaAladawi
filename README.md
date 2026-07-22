@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Asmaa Aladawi</h1>
+<h1 align="center">Hi, I'm Asmaa Aladawi</h1>
 
 <h3 align="center">
 Flutter Developer • Computer Science Graduate • Mobile Application Developer
@@ -18,9 +18,7 @@ Building scalable, high-performance cross-platform mobile applications with Flut
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/AsmaaAladawi">
-<img src="https://img.shields.io/github/followers/AsmaaAladawi?style=for-the-badge&logo=github"/>
-</a>
+
 
 </p>
 
@@ -41,8 +39,6 @@ Building scalable, high-performance cross-platform mobile applications with Flut
 🌐 Experienced in REST APIs, Firebase and Backend Integration
 
 📦 Local Storage using Hive & Shared Preferences
-
-🤝 Love teamwork, problem solving and learning new technologies
 
 💼 Currently looking for Flutter Internship & Junior Flutter Developer opportunities
 
@@ -250,15 +246,7 @@ Responsive Flutter UI
 
 ---
 
-# 🐍 Contribution Graph
 
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/AsmaaAladawi/AsmaaAladawi/output/github-contribution-grid-snake.svg"/>
-
-</p>
-
----
 
 # 📫 Connect with Me
 
